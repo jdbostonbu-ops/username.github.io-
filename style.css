@@ -1,0 +1,28 @@
+a:hover{
+    color: hsl(221, 100%, 80%);
+    font-size: 1.em;
+}
+a:active{
+    color: hsl(200, 100%, 50%)
+    font-size: 1.1em;
+}
+a:visited{
+    color: rgb(232, 35, 35)
+}
+a:hover{
+    background-color: rgb(236, 236, 60)
+}
+.button {
+  cursor: pointer;
+}
+.custom-corners {
+  border-radius: 15px
+}
+body {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+p{
+    Margin: 50px 200px 50px 200px;
+ 
+}
