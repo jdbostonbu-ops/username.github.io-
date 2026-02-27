@@ -1,1 +1,120 @@
 # username.github.io-
+# My First Repository
+<html>       
+<html lang="en">
+	<head>
+<title>Medicare Solutions Homepage</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>HTML 5 Boilerplate</title>
+        <style>
+        body {
+background: #f2f2fa;
+background: radial-gradient(circle,rgba(242, 242, 250, 1) 0%, rgba(14, 14, 230, 0.33) 100%, rgba(245, 249, 250, 1) 0%);
+        }
+    </style>
+<div align="center">
+ <h3>Select a Medicare Plan below</h3>
+    <a href="CT.html"><button><h3>CT Medicare Advantage Plans</h3></button></a> 
+    <a href="RI.html"><button><h3>RI Medicare Advantage Plans</h3></button></a> 
+    <a href="MA.html"><button><h3>MA Medicare Advantage Plans</h3></button></a> 
+    <a href="SuppPlans.html"><button><h3>Medicare Supplement Plans</h3></button></a> 
+    <a href="Dual.html"><button><h3>Dual Special Needs Plans</h3></button></a> 
+</div>
+<!DOCTYPE html>
+       
+<html>
+<head>
+  
+<style>
+.image-container {
+  /* Center the image using CSS */
+  text-align: center;
+  /* Define the container size if needed, though often better left dynamic */
+  width: 100%;
+  padding: 20px 0; /* Add some spacing */
+}
+
+.rounded-corners {
+  /* Set specific dimensions for the image using CSS */
+  width: 1400px;
+  height: 225px;
+  
+  /* Apply the user-specified border-radius */
+  border-radius: 15px; 
+  
+  /* Use object-fit to control how the image fits the fixed dimensions */
+  /* 'cover' preserves the aspect ratio and fills the space, cropping as needed */
+  object-fit: cover;
+  
+  /* Ensure the image is a block element to use margin: auto for centering if text-align on parent is not an option */
+  display: block;
+  margin: 0 auto;
+}
+
+/* Optional: Make the image responsive if the screen size is smaller than 600px */
+@media (max-width: 1400px) {
+  .rounded-corners {
+    width: 100%; /* Makes the image take the full width on smaller screens */
+    height: auto; /* Maintains aspect ratio responsively */
+    object-fit: contain; /* Optional: adjust fit for responsiveness */
+  }
+}
+</style> 
+        <title>Margins</title> 
+        <link rel="stylesheet" href="style.css">      
+</head>
+<body>
+  
+<!-- The div container with the centering instruction -->
+<div class="image-container">
+  <!-- The image tag with the specified class -->
+  <img src="elderly autumn.jpeg" alt="Description of the image" class="rounded-corners">
+</div>     
+
+        <div align="center">
+                <h1>Welcome to Medicare Solutions</h1>
+                <h2><em>Aging Wisely with Medicare!</em></h2>
+        
+        <h2 align="center">
+<p>We specialize on the entire Portfolio of Medicare plans in Connecticut, Rhode Island, and Massachusetts for the 65 and over populations. We also work with special needs populations and plans. We are here to help you every step of the way. We will assist you in the enrollment process. We will conduct a needs analysis and make recommendations based on your needs.</p>
+<p>
+We are also authorized to sell <em>Affordable Care Act (ACA)</em> plans and offer the entire Federally Facilitated-Marketplace Portfolio. To learn more about Medicare Advantage Plans, click the link below or watch our video. You can also make an appointment with a Licensed Insurance Agent by emailing a REQUEST FOR AN APPOINTMENT.
+</p>
+</h2>
+        <h2 align="center">
+<a href="https://www.medicare.gov/basics/costs/medicare-costs"><button onclick="changeHeading()"><h2>CLICK HERE TO LEARN THE BASICS AT MEDICARE.GOV</h2></button></a> 
+<h3></h3>
+        <div align="center">  
+ 
+        <img src="img.3645.jpg" 
+     style="width: 100px; height: 150px; border-radius: 15px; object-fit: cover;" 
+     alt="Profile Picture">
+     
+      <h2 align="center">Jacqueline Delgado, Licensed Insurance Agent 
+      <h3 align="center"><em>Talk to a Licensed Agent today!</em>
+      <h3 align="center">Serving Rhode Island, Connecticut, and Massachusetts.
+        <h4 align="center">Email: medicaresolutions@medicare.com
+<h3></h3>
+<audio src="ES_Let's Go! - Speedy The Spider.mp3" controls type="audio/mp3"></audio>
+        
+        <div align="center">
+        <h3>Watch the video to learn about the Benefits of a Medicare Advantage Plan!</h3>
+<video src="Why Would Someone Choose an Medicare Advantage Plan_.mp4" controls type="video/mp4" width="400" height="400"></video>
+
+        <h1 align="center"></h1>
+<a href="https://www.medicare.gov/plan-compare/#/?year=2026&lang=en"<button onclick="changeHeading()"><h1>Search Medicare Plans</h1></button></a>
+
+
+<a href="Plans.html"><button><h2>CLICK HERE TO LEARN MORE ABOUT MEDICARE ADVANTAGE PLANS</h2></button></a> 
+       
+        <h1 align="center"></h1>
+
+        <h1><strong>Thank You for Visiting Our Page!</strong></h1>
+
+        <button onclick="this.innerText='AWESOME! You CLICKED the Button!'">CLICK Me!</button>
+
+<script src="Script.js" defer></script>
+</body>
+</html>
