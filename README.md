@@ -22,8 +22,8 @@ A professional, localized landing page for Medicare and ACA insurance services i
 # Why Would Someone Choose an Medicare Advantage Plan_.mp4: Educational video.#
 - 🚀 Tech Stack
 # HTML5: Semantic structure for accessibility.
-# CSS:# Inline and class-based styling for rounded corners and layout centering.
-# JavaScript:# Simple event listeners (changeHeading()) for interactive button states.
+# CSS: Inline and class-based styling for rounded corners and layout centering.
+# JavaScript: Simple event listeners (changeHeading()) for interactive button states.
 # 👩‍💼 Contact Information #
 Jacqueline Delgado, Licensed Insurance Agent
 Serving: CT, RI, MA
