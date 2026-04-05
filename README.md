@@ -1,5 +1,10 @@
 
 # My First Repository
+
+## 👤 Author
+**Jacqueline**  
+[Check out my GitHub Profile](https://github.com/jdbostonbu-ops)
+
 # 🏥 Medicare Solutions: Aging Wisely #
 A professional, localized landing page for Medicare and ACA insurance services in Connecticut, Rhode Island, and Massachusetts.
 # 🌍 Project Vision #
